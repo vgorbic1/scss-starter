@@ -1,0 +1,6 @@
+.section-one {
+
+  @include respond(tab-port) {
+    padding: 20rem 0;
+  }
+}
