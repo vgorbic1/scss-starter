@@ -17,4 +17,4 @@ Bundle all files in **css** directory and minifies the bundle file to **style.mi
 npm run build
 ```
 ## License
-MIT @ Mario Casciaro
+MIT Vladislav Gorbich
